@@ -1,0 +1,76 @@
+/* style5.css */
+
+/* Global styles */
+body {
+    background-image: url("back6.jpg");
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+  }
+  
+  /* Button styles */
+  button.apply {
+    background-color: #0088cc;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button.apply p {
+    margin: 0;
+  }
+  
+  button.apply a.signup {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Form styles */
+  .carrier {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .signupbox {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  .headings {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .span {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  .inputbox {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .sign {
+    background-color: #0088cc;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .sign a.mail {
+    color: white;
+    text-decoration: none;
+  }
+  

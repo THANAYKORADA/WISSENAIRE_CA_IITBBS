@@ -1,0 +1,98 @@
+body{
+    background-image: url("back8.jpg");
+    background-size: cover;
+}
+h{
+    font-size: 50px;
+    position: relative;
+    bottom: 100px;
+    color: orangered;
+}
+#r1{
+    position:relative;
+    left:360px;
+
+}
+#r2{
+    position:relative;
+    left:490px;
+    
+}
+#r3{
+    position:relative;
+    top:370px;
+    right:110px;
+    
+}
+#r4{
+    position:relative;
+    top:370px;
+    left:20px;
+}
+#l1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:relative;
+    right:240px;
+}
+#l2{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    left:1280px;
+}
+#l3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:relative;
+    right:520px;
+    top:410px;
+    z-index: -1;
+}
+#l4{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:relative;
+    top:280px;
+    left:1240px;
+}
+#l5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top:280px;
+    left:605px;
+    font-size: 40px;
+}
+#a1{
+    position: relative;
+    font-size: 18px;
+    height:80px;
+    left:840px;
+    top:60px;
+    
+}
+#a2{
+    position: relative;
+    font-size: 18px;
+    height:80px;
+    left:920px;
+    top:60px;
+}
+#a3{
+    position: relative;
+    font-size: 18px;
+    height:80px;
+    top:430px;
+    left:260px;
+}
+#a4{
+    position: relative;
+    font-size: 18px;
+    height:80px;
+    top:430px;
+    left:400px;
+}
+m{
+    position: relative;
+    right: 300px;
+    top:100px;
+}

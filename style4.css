@@ -1,0 +1,149 @@
+#contact {
+    background-color: rgba(40, 82, 72, 0.5);
+  }
+  
+  div.contact {
+    font-size: 5rem;
+    color: rgb(2, 3, 128);
+  }
+  
+  div.details {
+    font-size: 3rem;
+    color: #000;
+  }
+  
+  div.carrier {
+    font-family: "Exo SemiBold Italic";
+    align-self: center;
+    float: left;
+    width: 100vw;
+    padding-bottom: 6rem;
+    text-align: center;
+    align-content: center;
+  }
+  
+  div#form {
+    padding-bottom: 0rem;
+  }
+  
+  img#promote {
+    margin-bottom: 1rem;
+  }
+  
+  img#serve {
+    width: 7rem;
+    height: auto;
+  }
+  
+  div.information {
+    color: rgb(0, 5, 90);
+    font-size: 20px;
+    padding-left: 10vw;
+    width: 80vw;
+  }
+  
+  #links {
+    background-color: rgba(3, 3, 3, 0.8);
+    border-radius: 1.25px 1.25px 0px 0px;
+  }
+  
+  ul.links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 100px;
+  }
+  
+  ul.links li {
+    margin-right: 4rem;
+  }
+  
+  div.carrier h1 {
+    color: rgb(168, 128, 7);
+  }
+  
+  div.carrier h1#wiss_web {
+    color: rgb(254, 191, 3);
+  }
+  
+  #wissenaire_web {
+    color: #ff0404;
+    text-decoration: none;
+  }
+  
+  span.fa-facebook {
+    color: rgb(40, 85, 182);
+    font-size: 90px;
+  }
+  
+  span.fa-linkedin-in {
+    color: rgb(30, 48, 80);
+    font-size: 90px;
+  }
+  
+  span.fa-twitter {
+    color: rgb(0, 172, 238);
+    font-size: 90px;
+  }
+  
+  span.fa-instagram {
+    color: rgb(195, 11, 85);
+    font-size: 100px;
+  }
+  
+  div.headings {
+    margin-bottom: 2rem;
+    color: rgb(4, 3, 128);
+  }
+  
+  div#form {
+    background-color: rgba(14, 146, 198, 0.5);
+    justify-items: center;
+    display: grid;
+    width: 100vw;
+  }
+  
+  #signupbox {
+    text-align: center;
+    align-items: center;
+    float: left;
+    font-size: 2rem;
+    font-family: "Exo SemiBold Italic";
+  }
+  
+  input {
+    height: 9vh;
+    background-color: transparent;
+    border-width: 0px 0px 3px 0px;
+    border-color: rgb(168, 128, 7);
+    font-size: 4rem;
+  }
+  
+  button.sign {
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: rgba(4, 199, 199, 0.659);
+    border-radius: 10px;
+    font-size: 3rem;
+    width: 25vw;
+    margin: 5rem 0rem 5rem 0vw;
+  }
+  
+  button.sign:hover{
+    background-color: rgb(18, 172, 172);
+    -webkit-transition: all 500ms;
+    -moz-transition: all 500ms;
+    -o-transition: all 500ms;
+    transition: all 500ms;
+  }
+  
+  span.span{
+    color: rgb(174, 13, 74);
+  }
+  
+  a.mail {
+    color: #ff0404;
+    text-decoration: none;
+  }

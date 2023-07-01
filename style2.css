@@ -1,0 +1,29 @@
+body{
+    background-image: url("photo.jpg");
+    background-size: cover;
+    padding: 0;
+    margin-right: 0;
+    margin-top: 0;
+    color:blanchedalmond;
+    font-size: 30px;
+}
+button{
+    border-radius: 15%;
+    height:60px;
+    width: 150px;
+    background-color:yellow;
+    font-size: 25px;
+    position: relative;
+    left:60px;
+    margin-left: 600px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+img{
+    position: relative;
+    top:30px;
+}
+
+
+
+

@@ -1,0 +1,52 @@
+body{
+    background-image: url("back1.jpg");
+    background-size: cover;
+    padding: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+img{
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 35%;
+    height: auto;
+}
+p{
+    font-size: 50px;
+    color:crimson;
+    position: relative;
+    width: 30%;
+    width: 5% 10%;
+    text-align: center;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+div.nav{
+    display: flex;
+    margin: 0% 5%;
+}
+div
+button{
+    background: transparent;
+    border: 0px;
+    width: fit-content;
+    margin: 0.5%;
+}
+a{
+    height: 10%;
+    text-decoration: none;
+    font-size: 35px;
+    color: orange;
+    bottom:40px;
+}
+.l{
+    width: 100%;
+    display: flex;
+    flex: none;
+}
+img.b{
+    width: 40%;
+    height: auto;
+    margin: 5%;
+}
